@@ -6,4 +6,11 @@
 
 // Be sure to test your code is doing what you think it is doing by console.log() ing throughout.
 
-const newArray = ["banana", "peach", ]
+const newArray = ["banana", "peach", "orange", "apple", "carrot"]
+
+let orange = newArray[2]
+
+newArray.push("mango")
+
+console.log(newArray)
+console.log(orange)
