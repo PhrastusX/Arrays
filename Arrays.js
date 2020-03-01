@@ -10,5 +10,6 @@ array.unshift('theophrastus')//adds items to beginning of array
 array.includes('jason') //returns true or false
 a = array.join()//makes the array a string
 console.log(a)
+console.log(a)
 array.reverse //reverses the order of the array
 array.sort()//default is alphabetical acending but you can pass a sorting function through it.
